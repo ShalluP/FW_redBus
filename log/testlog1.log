@@ -1,0 +1,135 @@
+2020-07-31 10:57:39,219 [main] INFO redBus - url is opened
+2020-07-31 11:05:10,829 [main] INFO redBus - setUp method is run
+2020-07-31 11:05:10,855 [main] INFO redBus - url is opened
+2020-07-31 12:39:21,625 [main] INFO redBus - setUp method is run
+2020-07-31 12:39:21,664 [main] INFO redBus - url is opened
+2020-07-31 16:30:47,994 [main] INFO redBus - setUp method is run
+2020-07-31 16:30:48,035 [main] INFO redBus - url is opened
+2020-07-31 17:40:14,634 [main] INFO redBus - setUp method is run
+2020-07-31 17:40:14,662 [main] INFO redBus - url is opened
+2020-07-31 17:41:11,409 [main] INFO redBus - setUp method is run
+2020-07-31 17:41:11,436 [main] INFO redBus - url is opened
+2020-07-31 18:09:51,731 [main] INFO redBus - setUp method is run
+2020-07-31 18:09:51,756 [main] INFO redBus - url is opened
+2020-07-31 18:09:58,665 [main] INFO redBus - the mobile num clicked
+2020-07-31 18:16:51,305 [main] INFO redBus - setUp method is run
+2020-07-31 18:16:51,328 [main] INFO redBus - url is opened
+2020-07-31 18:16:57,635 [main] INFO redBus - the mobile num clicked
+2020-07-31 18:18:04,617 [main] INFO redBus - setUp method is run
+2020-07-31 18:18:04,652 [main] INFO redBus - url is opened
+2020-07-31 18:18:10,623 [main] INFO redBus - the mobile num clicked
+2020-07-31 18:19:27,995 [main] INFO redBus - setUp method is run
+2020-07-31 18:19:28,022 [main] INFO redBus - url is opened
+2020-07-31 18:19:34,259 [main] INFO redBus - the mobile num clicked
+2020-07-31 18:33:02,189 [main] INFO redBus - setUp method is run
+2020-07-31 18:33:02,217 [main] INFO redBus - url is opened
+2020-07-31 18:33:09,030 [main] INFO redBus - the mobile num clicked
+2020-07-31 18:49:04,326 [main] INFO redBus - setUp method is run
+2020-07-31 18:49:04,351 [main] INFO redBus - url is opened
+2020-07-31 18:49:10,778 [main] INFO redBus - the mobile num clicked
+2020-07-31 19:03:11,837 [main] INFO redBus - setUp method is run
+2020-07-31 19:03:11,862 [main] INFO redBus - url is opened
+2020-07-31 19:03:18,267 [main] INFO redBus - the mobile num clicked
+2020-07-31 19:03:18,279 [main] INFO redBus - returned to default window
+2020-07-31 19:04:29,371 [main] INFO redBus - setUp method is run
+2020-07-31 19:04:29,396 [main] INFO redBus - url is opened
+2020-07-31 19:04:35,519 [main] INFO redBus - the mobile num clicked
+2020-07-31 19:04:35,531 [main] INFO redBus - returned to default window
+2020-08-04 15:47:59,724 [main] INFO redBus - setUp method is run
+2020-08-04 15:47:59,751 [main] INFO redBus - url is opened
+2020-08-04 15:48:07,492 [main] INFO redBus - the mobile num clicked
+2020-08-04 15:48:07,507 [main] INFO redBus - returned to default window
+2020-08-04 16:05:52,930 [main] INFO redBus - setUp method is run
+2020-08-04 16:05:52,974 [main] INFO redBus - url is opened
+2020-08-04 16:05:59,933 [main] INFO redBus - the mobile num clicked
+2020-08-04 16:05:59,956 [main] INFO redBus - returned to default window
+2020-08-04 16:31:06,298 [main] INFO redBus - setUp method is run
+2020-08-04 16:31:06,324 [main] INFO redBus - url is opened
+2020-08-04 16:31:12,652 [main] INFO redBus - the mobile num clicked
+2020-08-04 16:31:12,664 [main] INFO redBus - returned to default window
+2020-08-04 16:34:45,630 [main] INFO redBus - setUp method is run
+2020-08-04 16:34:45,656 [main] INFO redBus - url is opened
+2020-08-04 16:34:52,162 [main] INFO redBus - the mobile num clicked
+2020-08-04 16:34:52,183 [main] INFO redBus - returned to default window
+2020-08-04 16:37:01,051 [main] INFO redBus - setUp method is run
+2020-08-04 16:37:01,076 [main] INFO redBus - url is opened
+2020-08-04 16:37:07,114 [main] INFO redBus - the mobile num clicked
+2020-08-04 16:37:07,125 [main] INFO redBus - returned to default window
+2020-08-04 16:39:42,128 [main] INFO redBus - setUp method is run
+2020-08-04 16:39:42,151 [main] INFO redBus - url is opened
+2020-08-04 16:39:48,367 [main] INFO redBus - the mobile num clicked
+2020-08-04 16:39:48,373 [main] INFO redBus - returned to default window
+2020-08-04 16:45:14,461 [main] INFO redBus - setUp method is run
+2020-08-04 16:45:14,480 [main] INFO redBus - url is opened
+2020-08-04 16:45:20,751 [main] INFO redBus - the mobile num clicked
+2020-08-04 16:45:20,764 [main] INFO redBus - returned to default window
+2020-08-04 17:11:17,971 [main] INFO redBus - setUp method is run
+2020-08-04 17:11:17,999 [main] INFO redBus - url is opened
+2020-08-04 17:11:24,180 [main] INFO redBus - the mobile num clicked
+2020-08-04 17:11:24,187 [main] INFO redBus - returned to default window
+2020-08-06 12:12:10,242 [main] INFO redBus - setUp method is run
+2020-08-06 12:12:10,285 [main] INFO redBus - url is opened
+2020-08-06 12:12:21,790 [main] INFO redBus - the mobile num clicked
+2020-08-06 12:12:21,800 [main] INFO redBus - returned to default window
+2020-08-06 12:17:31,510 [main] INFO redBus - setUp method is run
+2020-08-06 12:17:31,549 [main] INFO redBus - url is opened
+2020-08-06 12:17:38,721 [main] INFO redBus - the mobile num clicked
+2020-08-06 12:17:38,734 [main] INFO redBus - returned to default window
+2020-08-06 12:17:51,665 [main] INFO redBus - the cross btn is clicked
+2020-08-06 12:22:03,091 [main] INFO redBus - setUp method is run
+2020-08-06 12:22:03,119 [main] INFO redBus - url is opened
+2020-08-06 12:22:10,799 [main] INFO redBus - the mobile num clicked
+2020-08-06 12:22:10,812 [main] INFO redBus - returned to default window
+2020-08-06 12:22:23,821 [main] INFO redBus - the cross btn is clicked
+2020-08-06 13:12:07,262 [main] INFO redBus - setUp method is run
+2020-08-06 13:12:07,281 [main] INFO redBus - url is opened
+2020-08-06 13:12:15,775 [main] INFO redBus - the mobile num clicked
+2020-08-06 13:12:15,787 [main] INFO redBus - returned to default window
+2020-08-06 13:12:29,189 [main] INFO redBus - the cross btn is clicked
+2020-08-06 13:39:12,724 [main] INFO redBus - setUp method is run
+2020-08-06 13:39:12,745 [main] INFO redBus - url is opened
+2020-08-06 13:39:20,747 [main] INFO redBus - the mobile num clicked
+2020-08-06 13:39:20,759 [main] INFO redBus - returned to default window
+2020-08-06 13:39:33,944 [main] INFO redBus - the cross btn is clicked
+2020-08-07 12:27:08,279 [main] INFO redBus - setUp method is run
+2020-08-07 12:27:08,306 [main] INFO redBus - url is opened
+2020-08-07 12:27:16,305 [main] INFO redBus - the mobile num clicked
+2020-08-07 12:27:16,323 [main] INFO redBus - returned to default window
+2020-08-07 12:27:29,191 [main] INFO redBus - the cross btn is clicked
+2020-08-07 13:33:01,140 [main] INFO redBus - setUp method is run
+2020-08-07 13:33:01,172 [main] INFO redBus - url is opened
+2020-08-07 13:33:08,976 [main] INFO redBus - the mobile num clicked
+2020-08-07 13:33:08,987 [main] INFO redBus - returned to default window
+2020-08-07 13:33:21,969 [main] INFO redBus - the cross btn is clicked
+2020-08-07 15:55:36,800 [main] INFO redBus - setUp method is run
+2020-08-07 15:55:36,836 [main] INFO redBus - url is opened
+2020-08-07 15:55:42,516 [main] INFO redBus - the mobile num clicked
+2020-08-07 15:55:42,530 [main] INFO redBus - returned to default window
+2020-08-07 15:55:55,455 [main] INFO redBus - the cross btn is clicked
+2020-08-07 15:57:57,034 [main] INFO redBus - setUp method is run
+2020-08-07 15:57:57,066 [main] INFO redBus - url is opened
+2020-08-07 15:58:02,460 [main] INFO redBus - the mobile num clicked
+2020-08-07 15:58:02,481 [main] INFO redBus - returned to default window
+2020-08-07 15:58:15,225 [main] INFO redBus - the cross btn is clicked
+2020-08-07 15:59:44,586 [main] INFO redBus - setUp method is run
+2020-08-07 15:59:44,621 [main] INFO redBus - url is opened
+2020-08-07 15:59:49,942 [main] INFO redBus - the mobile num clicked
+2020-08-07 15:59:49,953 [main] INFO redBus - returned to default window
+2020-08-07 16:00:02,901 [main] INFO redBus - the cross btn is clicked
+2020-08-07 16:29:57,962 [main] INFO redBus - setUp method is run
+2020-08-07 16:34:18,322 [main] INFO redBus - setUp method is run
+2020-08-07 16:59:47,078 [main] INFO redBus - setUp method is run
+2020-08-07 17:06:12,391 [main] INFO redBus - setUp method is run
+2020-08-07 17:06:12,407 [main] INFO redBus - url is opened
+2020-08-07 17:07:39,140 [main] INFO redBus - setUp method is run
+2020-08-07 17:07:39,157 [main] INFO redBus - url is opened
+2020-08-07 17:22:00,304 [main] INFO redBus - setUp method is run
+2020-08-07 17:22:00,337 [main] INFO redBus - url is opened
+2020-08-07 17:57:26,138 [main] INFO redBus - setUp method is run
+2020-08-07 17:57:26,162 [main] INFO redBus - url is opened
+2020-08-09 13:04:26,401 [main] INFO redBus - setUp method is run
+2020-08-09 13:04:26,421 [main] INFO redBus - url is opened
+2020-08-09 13:10:07,300 [main] INFO redBus - setUp method is run
+2020-08-09 13:10:07,319 [main] INFO redBus - url is opened
+2020-08-09 13:23:46,512 [main] INFO redBus - setUp method is run
+2020-08-09 13:23:46,535 [main] INFO redBus - url is opened

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RedBus">
+<test name="RedBus_Framework">
+  <parameter name="browser" value="chrome"></parameter>
+<classes>
+<class name="com.FW_redBus.testCases.TC_SignUp_001_redBus"></class>
+</classes>
+</test>
+</suite>

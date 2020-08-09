@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="RedBus" duration-ms="29927" started-at="2020-08-07T14:29:47Z" finished-at="2020-08-07T14:30:17Z">
+    <groups>
+    </groups>
+    <test name="RedBus_Framework" duration-ms="29927" started-at="2020-08-07T14:29:47Z" finished-at="2020-08-07T14:30:17Z">
+      <class name="com.FW_redBus.testCases.TC_SignUp_001_redBus">
+        <test-method status="PASS" signature="setUpExtent()[pri:0, instance:com.FW_redBus.testCases.TC_SignUp_001_redBus@754ba872]" name="setUpExtent" is-config="true" duration-ms="256" started-at="2020-08-07T14:29:47Z" finished-at="2020-08-07T14:29:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpExtent -->
+        <test-method status="PASS" signature="setUpBrowser(java.lang.String)[pri:0, instance:com.FW_redBus.testCases.TC_SignUp_001_redBus@754ba872]" name="setUpBrowser" is-config="true" duration-ms="10218" started-at="2020-08-07T14:29:47Z" finished-at="2020-08-07T14:29:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="signUp()[pri:0, instance:com.FW_redBus.testCases.TC_SignUp_001_redBus@754ba872]" name="signUp" duration-ms="7235" started-at="2020-08-07T14:29:57Z" finished-at="2020-08-07T14:30:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUp -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.FW_redBus.testCases.TC_SignUp_001_redBus@754ba872]" name="tearDown" is-config="true" duration-ms="613" started-at="2020-08-07T14:30:05Z" finished-at="2020-08-07T14:30:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signUp status=SUCCESS method=TC_SignUp_001_redBus.signUp()[pri:0, instance:com.FW_redBus.testCases.TC_SignUp_001_redBus@754ba872] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="closeWindow()[pri:1, instance:com.FW_redBus.testCases.TC_SignUp_001_redBus@754ba872]" name="closeWindow" duration-ms="10358" started-at="2020-08-07T14:30:05Z" finished-at="2020-08-07T14:30:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.FW_redBus.testCases.TC_SignUp_001_redBus@754ba872]" name="tearDown" is-config="true" duration-ms="735" started-at="2020-08-07T14:30:16Z" finished-at="2020-08-07T14:30:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=closeWindow status=SUCCESS method=TC_SignUp_001_redBus.closeWindow()[pri:1, instance:com.FW_redBus.testCases.TC_SignUp_001_redBus@754ba872] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.FW_redBus.testCases.TC_SignUp_001_redBus@754ba872]" name="closeBrowser" is-config="true" duration-ms="732" started-at="2020-08-07T14:30:16Z" finished-at="2020-08-07T14:30:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="endExtent()[pri:0, instance:com.FW_redBus.testCases.TC_SignUp_001_redBus@754ba872]" name="endExtent" is-config="true" duration-ms="516" started-at="2020-08-07T14:30:17Z" finished-at="2020-08-07T14:30:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endExtent -->
+      </class> <!-- com.FW_redBus.testCases.TC_SignUp_001_redBus -->
+    </test> <!-- RedBus_Framework -->
+  </suite> <!-- RedBus -->
+</testng-results>

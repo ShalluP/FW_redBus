@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [RedBus]">
+  <test thread-count="5" name="RedBus_Framework(failed)">
+    <classes>
+      <class name="com.FW_redBus.testCases.TC_SignUp_001_redBus">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="endExtent"/>
+          <include name="signUp"/>
+          <include name="setUpExtent"/>
+          <include name="closeWindow"/>
+        </methods>
+      </class> <!-- com.FW_redBus.testCases.TC_SignUp_001_redBus -->
+    </classes>
+  </test> <!-- RedBus_Framework(failed) -->
+</suite> <!-- Failed suite [RedBus] -->
